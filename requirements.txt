@@ -4,5 +4,6 @@ tensorflow
 scikit-learn
 xgboost
 statsmodels
-pmdarima
+pmdarima==2.0.3
+
 
