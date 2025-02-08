@@ -5,3 +5,4 @@ scikit-learn>=0.22
 statsmodels>=0.13.2
 Cython>=0.29
 pmdarima>=2.0.3
+matplotlib
