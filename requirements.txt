@@ -8,3 +8,4 @@ pmdarima>=2.0.3
 matplotlib
 seaborn
 tensorflow
+xgboost
